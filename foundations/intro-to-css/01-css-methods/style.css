@@ -1,5 +1,7 @@
 div {
     background-color: red;
     text-align: center;
-    font-size: x-large;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
 }
